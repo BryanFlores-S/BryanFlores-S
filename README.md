@@ -18,6 +18,35 @@ Hi, I'm <a href="https://github.com/BryanFlores-S"> Bryan Flores </a>
 - ⚡ Fun fact: Passionate about learning and implementing new technologies
 <h2> Skills <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 32px> </h2>
 
+
+
+<!--tech stack icons-->
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html" title="HTML" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=css" title="CSS" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=materialui" title="Material UI" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=react" title="React" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=redux" title="Redux" />&nbsp;&nbsp;&nbsp;
+  <br><br>
+    <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=java" title="Java" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=docker" title="Docker" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=postman" title="Postman" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=git" title="Git" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=github" title="GitHub" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=figma" title="Figma" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=md" title="Markdown" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />&nbsp;&nbsp;&nbsp;
+</p>
+
+
+
+
+
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
