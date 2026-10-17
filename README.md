@@ -85,6 +85,20 @@ Hi, I'm <a href="https://github.com/BryanFlores-S"> Bryan Flores </a>
     <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />&nbsp;&nbsp;&nbsp;
 </p>
 
+<!--GitHub summary-->
+<!--GitHub summary-->
+<!--GitHub summary-->
+<!--GitHub summary-->
+<!--GitHub summary-->
+<!-- Git Activeness -->
+<div align="left">
+  <h2>
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git" /> Git Activeness
+  </h2>
+  <hr />
+</div>
+
+
 
 
 <hr />
