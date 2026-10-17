@@ -5,7 +5,49 @@ Hi, I'm <a href="https://github.com/BryanFlores-S"> Bryan Flores </a>
 
   ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
-  <p align="center"><a href="https://github.com/BryanFlores-S">Portfolio↗️</a></p>
+
+
+
+
+
+
+
+
+<!-- Connect with me -->
+<div align="center">
+  <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px"> </h2>
+</div>
+
+<!-- Icons and links -->
+<p align="center">
+  <!-- Gmail con asunto y cuerpo predefinidos para envío directo -->
+  <a href="mailto:floressoriabryan@gmail.com?subject=Hi%20Bryan,%20let's%20connect!&body=Hi%20Bryan,%20I%20saw%20your%20GitHub%20profile%20and%20wanted%20to%20get%20in%20touch.">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="50" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/bryan-flores-ab46a0444/" target="_blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
+  </a>
+</p>
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 <h2> About Me </h2>
 
 <img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
@@ -45,8 +87,7 @@ Hi, I'm <a href="https://github.com/BryanFlores-S"> Bryan Flores </a>
 
 
 
+<hr />
+<hr />
+<hr />
 
-
- <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
